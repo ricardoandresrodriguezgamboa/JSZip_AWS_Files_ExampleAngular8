@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/51099549/is-it-possible-to-generate-zip-file-and-download-in-angular-4
+
+npm install --save npm install jszip
+npm i @progress/kendo-file-saver
+npm i jszip-utils
